@@ -17,4 +17,7 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<center> ![Test Case Image](./public/carbon.png)<center/>
+<p align="center"> 
+  <img src="./public/carbon.png"></img>    
+</p>
+
